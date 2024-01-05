@@ -14,7 +14,7 @@ parts:
   - chapters:
       # ===== Foreword Section ========================================
       - file: foreword/foreword
-        sections: 
+        sections:
           - title: History
             file: foreword/history
       # ===== Guide for Reproducible Research ========================================
